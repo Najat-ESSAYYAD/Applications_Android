@@ -1,13 +1,13 @@
 # Applications_Android
 Calculator : C'est une calculatrice scientifique
 
-DBExo :
+DBExo 
 
-RoomDatabaseDemo :
+RoomDatabaseDemo 
 
 Splasch screen - Navigation entre écrans - Internationalisation
 
-Threads :
+Threads 
 
 Création et stockage d'une liste de contact dans une base de données distante
 
